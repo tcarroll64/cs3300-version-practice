@@ -1,0 +1,1 @@
+Here is a test file to check if the commit message will be applied to this file when pushed to GitHub!
